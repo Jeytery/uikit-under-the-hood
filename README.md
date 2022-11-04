@@ -6,7 +6,7 @@
 - Multithreading (async/await in advanced-swift)
   - [GCD](runloop.md)
   - [Operations](runloop.md)
-  - Responder Chain[responder-chain.md]
+  - [Responder Chain](responder-chain.md)
 
 ### links
 https://habr.com/ru/post/309506/ \
