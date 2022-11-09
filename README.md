@@ -8,6 +8,11 @@
   - [Operations](runloop.md)
   - [Responder Chain](responder-chain.md)
 
+### CoreAnimation 
+Изначально LayerKit.
+Отвечает за отрисовки всего в iOS приложении. Изначально любое изменеие анимирует. 
+Нужно писать специальный код, чтобы отменить анимацию
+
 ### links
 https://habr.com/ru/post/309506/ \
 https://russianblogs.com/article/538471102/ \
